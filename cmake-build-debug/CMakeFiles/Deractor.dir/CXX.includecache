@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/Deractor.cpp
+common.h
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/common.h
+
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/common.h
+cstdlib
+-
+cstdio
+-
+cstring
+-
+cassert
+-
+string
+-
+vector
+-
+set
+-
+deque
+-
+queue
+-
+stack
+-
+iostream
+-
+algorithm
+-
+functional
+-
+memory
+-
+

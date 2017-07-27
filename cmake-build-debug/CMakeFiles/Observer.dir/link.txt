@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Observer.dir/Observer.cpp.o  -o Observer.exe -Wl,--out-implib,libObserver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

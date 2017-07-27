@@ -1,0 +1,9 @@
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/Factory.dir
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/adapter.dir
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/Bridge.dir
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/proxy.dir
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/Observer.dir
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/Deractor.dir
+/cygdrive/c/Users/17723/Desktop/GitHub/design-model/cmake-build-debug/CMakeFiles/design_model.dir
